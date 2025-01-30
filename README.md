@@ -1,2 +1,0 @@
-# jmeterscript
-My script
